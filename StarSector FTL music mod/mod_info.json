@@ -1,0 +1,8 @@
+{
+	"id":"starsectorftlmusicmod", # internal id
+	"name":"StarSector FTL music mod", # displayed to the player
+	"author":"jikagq",
+	"version":"1.0",
+	"description":"This mod add FTL music to StarSector",
+	"gameVersion":"0.9.1a",
+}
